@@ -5,6 +5,7 @@ an express js server with an easy to use discord lookup api, returns badge names
 - Make sure to have node installed
 - Make sure you have npm installed
 - drag files into folder and run npm i
+- edit `index.js` and change discord_token to your discord bot token
 - run `node .` to start the server
 
 # Query
