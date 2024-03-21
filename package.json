@@ -9,7 +9,7 @@
   "author": "Selfrep",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.18.3",
     "fetch": "^1.1.0",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.6"
